@@ -16,3 +16,38 @@ As a data scientist who loves to learn more about the dataset, I create a few qu
 I found out that to be outstanding, I need to grind the dataset and do something that others never explore. Thanks to Kaggle, I can compare my work with others to find the better solutions.
 
 I am very happy to say thank you and give a credit to https://www.kaggle.com/iamrohitsingh/flight-crash-investigation
+
+## 2. What did I do in this project
+
+a. Understand the data
+* Applied descriptive analysis and utilized visualization to give some insight
+* Created my own grouping to group airplane crashed that related with time (Yearly, Monthly, etc and Chinese zodiac)
+* Found out the most mentioned words and the most destinations in the summary section.
+
+b. Machine Learning Algorithms
+* Applied Clustering methods to find the common of airplane fatalities
+* Applied Clustering to find the most common words in summary section
+* Utilized dimensional reduction to visualize those clustering
+
+## 3. Outcome/ results
+
+### 1. Airplane Crashing
+
+* USA has the highest fatility cases in the world
+* There are over 85% of airplan crashed which are from commercial flights
+* Don't fly with Aeroflot Operator, there is 68% chance of you dying.
+* Don't fly in a Douglas DC-3 aircraft, you are 5 times more chance to die.
+* Don't take any flight that flies Tenerife - Las Palmas / Tenerife - Las Palmas route or Tokyo - Osaka.
+* Don't fly with any flight of type Douglous DC-3 ,it had highest fatalities percentage.
+* Avoid going to Sao Paulo, Brazil ; Moscow, Russia ; Rio de Janeiro, Brazil ; they had highest plane crash location.
+* It is so much safer to take flight now-a-days as compared to 1970-80, 1972 was the worst years for airline industry.
+* Peole who are born in year of Ox have more chance to die, and people who are born in year of Horse have high chance to survive
+* The best clustering algorithms for clustering the fatilities is DBSCAN with eps = 0.01, min sample is 1, and metric is euclidean with the number of cluster is 2
+
+### 2. Text Clustering
+* It's hard to determine which is the best method. Overall, The best model which has the highest Silhoette Coefficient Score (0.065) is DBSCAN with eps = 0.01, min_sample = 1, and metric etric='euclidean', which has 4627 clusters
+* Personally, I like K-mean because it returns 16 cluster, which is easy to understand and visuallize. 
+
+### 3. Learning from this project
+* There is no absolute right answer for clustering. To bring the best results for business solution, I would recomend data scientists consider the best model that fit the business need and apply their business acumen to suggest the best strategy for the whole team.
+* My data analysis above is good for travelers around the world to have an insider about traviling with airplane. And it is a good suggestion for operators or aerospace company to look up the disavantages of the past to improve their future businesses.
