@@ -34,7 +34,9 @@ b. Machine Learning Algorithms
 ### 1. Airplane Crashing
 
 * USA has the highest fatility cases in the world
+
 ![Screen Shot 2020-11-28 at 5 30 29 PM](https://user-images.githubusercontent.com/63126292/100528183-75274100-319f-11eb-819a-49755eb20a10.png)
+
 `top 10 countries that has the most fatalities cases`
 * There are over 85% of airplan crashed which are from commercial flights
 ![Unknown](https://user-images.githubusercontent.com/63126292/100528169-35605980-319f-11eb-96c2-1eb0e23fac64.png)
