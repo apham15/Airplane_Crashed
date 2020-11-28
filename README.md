@@ -35,6 +35,7 @@ b. Machine Learning Algorithms
 
 * USA has the highest fatility cases in the world
 * There are over 85% of airplan crashed which are from commercial flights
+![Unknown](https://user-images.githubusercontent.com/63126292/100528169-35605980-319f-11eb-96c2-1eb0e23fac64.png)
 * Don't fly with Aeroflot Operator, there is 68% chance of you dying.
 * Don't fly in a Douglas DC-3 aircraft, you are 5 times more chance to die.
 * Don't take any flight that flies Tenerife - Las Palmas / Tenerife - Las Palmas route or Tokyo - Osaka.
