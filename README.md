@@ -56,3 +56,5 @@ b. Machine Learning Algorithms
 ### 3. Learning from this project
 * There is no absolute right answer for clustering. To bring the best results for business solution, I would recomend data scientists consider the best model that fit the business need and apply their business acumen to suggest the best strategy for the whole team.
 * My data analysis above is good for travelers around the world to have an insider about traviling with airplane. And it is a good suggestion for operators or aerospace company to look up the disavantages of the past to improve their future businesses.
+
+[![](https://img.shields.io/badge/PyTorch-Run_in_Colab-EE4C2C?logo=PyTorch)](https://github.com/chriskhanhtran/portfolio-tutorial)
