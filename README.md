@@ -58,11 +58,16 @@ b. Machine Learning Algorithms
 
 
 * Peole who are born in year of Ox have more chance to die, and people who are born in year of Horse have high chance to survive
+![download (9)](https://user-images.githubusercontent.com/63126292/100661775-9a3fbf00-3319-11eb-8103-5b35c5bc2d9e.png)
+![download (10)](https://user-images.githubusercontent.com/63126292/100661776-9ad85580-3319-11eb-8108-c98376f7e609.png)
 
+### 3. Airplane Fatalities Clustering
+* The best clustering algorithms for clustering the fatilities is DBSCAN with eps = 0.01, min sample is 1, and metric is euclidean, which has 2 clusters
 
 ### 2. Text Clustering
 * It's hard to determine which is the best method. Overall, The best model which has the highest Silhoette Coefficient Score (0.065) is DBSCAN with eps = 0.01, min_sample = 1, and metric etric='euclidean', which has 4627 clusters
 * Personally, I like K-mean because it returns 16 cluster, which is easy to understand and visuallize. 
+
 
 ### 3. Learning from this project
 * There is no absolute right answer for clustering. To bring the best results for business solution, I would recomend data scientists consider the best model that fit the business need and apply their business acumen to suggest the best strategy for the whole team.
