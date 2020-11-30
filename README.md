@@ -50,6 +50,7 @@ b. Machine Learning Algorithms
 ![Screen Shot 2020-11-30 at 2 32 38 PM](https://user-images.githubusercontent.com/63126292/100661381-040b9900-3319-11eb-9808-a040843f7fe9.png)
 
 * Avoid going to Sao Paulo, Brazil ; Moscow, Russia ; Rio de Janeiro, Brazil ; they had highest plane crash location.
+![Screen Shot 2020-11-30 at 2 35 28 PM](https://user-images.githubusercontent.com/63126292/100661672-695f8a00-3319-11eb-806d-68a5d4354ac1.png)
 
 * It is so much safer to take flight now-a-days as compared to 1970-80, 1972 was the worst years for airline industry.
 
