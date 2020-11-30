@@ -46,6 +46,10 @@ b. Machine Learning Algorithms
 * Don't fly with any flight of type Douglous DC-3 ,it had highest fatalities percentage.
 * Avoid going to Sao Paulo, Brazil ; Moscow, Russia ; Rio de Janeiro, Brazil ; they had highest plane crash location.
 * It is so much safer to take flight now-a-days as compared to 1970-80, 1972 was the worst years for airline industry.
+
+![download (6)](https://user-images.githubusercontent.com/63126292/100660930-539d9500-3318-11eb-8aec-2f11c7091964.png)
+
+
 * Peole who are born in year of Ox have more chance to die, and people who are born in year of Horse have high chance to survive
 * The best clustering algorithms for clustering the fatilities is DBSCAN with eps = 0.01, min sample is 1, and metric is euclidean with the number of cluster is 2
 
