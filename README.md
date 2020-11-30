@@ -44,6 +44,7 @@ b. Machine Learning Algorithms
 ![download (7)](https://user-images.githubusercontent.com/63126292/100661072-8ba4d800-3318-11eb-8ff3-a991ba19e87d.png)
 
 * Althout it is a military airplane, Don't fly in a Douglas DC-3 aircraft, you are 5 times more chance to die.
+![download (8)](https://user-images.githubusercontent.com/63126292/100661233-c4dd4800-3318-11eb-9313-b69f8eab1d3c.png)
 
 * Don't take any flight that flies Tenerife - Las Palmas / Tenerife - Las Palmas route or Tokyo - Osaka.
 * Don't fly with any flight of type Douglous DC-3 ,it had highest fatalities percentage.
