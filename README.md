@@ -4,6 +4,8 @@ At the time this Dataset was created in Kaggle (2016-09-09), the original versio
 ![airports-world-network](https://user-images.githubusercontent.com/63126292/100527674-00053d00-319a-11eb-8c97-93025d1dc632.png)
 
 ## 1. Business Understanding
+I am a traveler, who always use airplane as the main transportation to discover the world. And My favorite desination is Southest Asia, where I can do snokerling, kayaking, and diving. As a result, when I found this dataset, all my curiousities increase. Let's learn what was the airplane crashing from the past, I may know some insightful that would help me to decide for my future trips. Also, as an Asian, Chinese Zodiac is something very interesting. I did some fun stuff with that to learn more about the data.
+
 As a data scientist who loves to learn more about the dataset, I create a few question to ask myself the way I manipulate the data to bring up insightful information for business.
 
 1. What is the fatalities rates? Does it tell us anything?
@@ -68,6 +70,8 @@ b. Machine Learning Algorithms
 ### 2. Text Clustering
 * It's hard to determine which is the best method. Overall, The best model which has the highest Silhoette Coefficient Score (0.065) is DBSCAN with eps = 0.01, min_sample = 1, and metric etric='euclidean', which has 4627 clusters
 * Personally, I like K-mean because it returns 16 cluster, which is easy to understand and visuallize. 
+![download (12)](https://user-images.githubusercontent.com/63126292/100666428-9b271f80-331e-11eb-95e2-25bdff6ff931.png)
+![download (13)](https://user-images.githubusercontent.com/63126292/100666430-9c584c80-331e-11eb-99c1-60147de4b9ad.png)
 
 
 ### 3. Learning from this project
