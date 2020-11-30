@@ -63,6 +63,7 @@ b. Machine Learning Algorithms
 
 ### 3. Airplane Fatalities Clustering
 * The best clustering algorithms for clustering the fatilities is DBSCAN with eps = 0.01, min sample is 1, and metric is euclidean, which has 2 clusters
+![download (11)](https://user-images.githubusercontent.com/63126292/100666375-8480c880-331e-11eb-9d2c-2c8f98bb6353.png)
 
 ### 2. Text Clustering
 * It's hard to determine which is the best method. Overall, The best model which has the highest Silhoette Coefficient Score (0.065) is DBSCAN with eps = 0.01, min_sample = 1, and metric etric='euclidean', which has 4627 clusters
