@@ -43,12 +43,15 @@ b. Machine Learning Algorithms
 * Don't fly with Aeroflot Operator, there is 68% chance of you dying.
 ![download (7)](https://user-images.githubusercontent.com/63126292/100661072-8ba4d800-3318-11eb-8ff3-a991ba19e87d.png)
 
-* Althout it is a military airplane, Don't fly in a Douglas DC-3 aircraft, you are 5 times more chance to die.
+* Althout it is a military airplane, Don't fly in a Douglas DC-3 aircraft, you are 5 times more chance to dir and it had highest fatalities percentage.
 ![download (8)](https://user-images.githubusercontent.com/63126292/100661233-c4dd4800-3318-11eb-9313-b69f8eab1d3c.png)
 
 * Don't take any flight that flies Tenerife - Las Palmas / Tenerife - Las Palmas route or Tokyo - Osaka.
-* Don't fly with any flight of type Douglous DC-3 ,it had highest fatalities percentage.
+![Screen Shot 2020-11-30 at 2 32 38 PM](https://user-images.githubusercontent.com/63126292/100661381-040b9900-3319-11eb-9808-a040843f7fe9.png)
+
+* Don't fly with any flight of type Douglous DC-3 ,
 * Avoid going to Sao Paulo, Brazil ; Moscow, Russia ; Rio de Janeiro, Brazil ; they had highest plane crash location.
+
 * It is so much safer to take flight now-a-days as compared to 1970-80, 1972 was the worst years for airline industry.
 
 ![download (6)](https://user-images.githubusercontent.com/63126292/100660930-539d9500-3318-11eb-8aec-2f11c7091964.png)
