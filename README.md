@@ -75,4 +75,4 @@ b. Machine Learning Algorithms
 
 [![](https://img.shields.io/badge/PyTorch-Run_in_Colab-EE4C2C?logo=PyTorch)](https://www.kaggle.com/saurograndi/airplane-crashes-since-1908)
 
-[![](https://img.shields.io/badge/Kaggle-Data-EE4C2C?logo=Kaggle)](link-to-our-project)
+[![](https://img.shields.io/badge/Kaggle-Data-bluelogo=Kaggle)](https://www.kaggle.com/saurograndi/airplane-crashes-since-1908)
