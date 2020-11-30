@@ -80,7 +80,9 @@ b. Machine Learning Algorithms
 
 ## 4. My notebook.
 Since it is a large jupyternotebook, I store it on google colab.
+
 Also I attach python file above so everyone can learn
+
 And please connect with me on Linkedin. 
 
 
