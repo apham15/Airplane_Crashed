@@ -15,7 +15,7 @@ As a data scientist who loves to learn more about the dataset, I create a few qu
 
 I found out that to be outstanding, I need to grind the dataset and do something that others never explore. Thanks to Kaggle, I can compare my work with others to find the better solutions.
 
-I am very happy to say thank you and give a credit to https://www.kaggle.com/iamrohitsingh/flight-crash-investigation
+I am very happy to say thank you and give a credit to [![](https://img.shields.io/badge/Kaggle-Data-blue?logo=Kaggle)](https://www.kaggle.com/saurograndi/airplane-crashes-since-1908)
 
 ## 2. What did I do in this project
 
@@ -75,4 +75,4 @@ b. Machine Learning Algorithms
 
 [![](https://img.shields.io/badge/PyTorch-Run_in_Colab-EE4C2C?logo=PyTorch)](https://www.kaggle.com/saurograndi/airplane-crashes-since-1908)
 
-[![](https://img.shields.io/badge/Kaggle-Data-blue?logo=Kaggle)](https://www.kaggle.com/saurograndi/airplane-crashes-since-1908)
+
