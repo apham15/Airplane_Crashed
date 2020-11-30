@@ -83,7 +83,7 @@ Since it is a large jupyternotebook, I store it on google colab.
  [![](https://img.shields.io/badge/Google%20Colab-Airplane__Crashed-yellow)](https://colab.research.google.com/drive/1EcLvcgNmkrYZBPraaOk8EKw9X_KMONN2?usp=sharing)
 
 Also I attach python file above so everyone can learn
- [![](https://img.shields.io/badge/Python-Airplane__Crashed-blue?logo=Python](https://colab.research.google.com/drive/1EcLvcgNmkrYZBPraaOk8EKw9X_KMONN2?usp=sharing)
+ [![](https://img.shields.io/badge/Python-Airplane__Crashed-blue?logo=Python](https://github.com/apham15/Airplane_Crashed/blob/main/unsupervised_learning_airplane_crash_clustering.py)
 
 And please connect with me on Linkedin. 
  [![](https://img.shields.io/badge/LinkedIn-Anh__(Andrew)__Pham-blue?logo=LinkedIn](https://www.linkedin.com/in/anhpham96/)
