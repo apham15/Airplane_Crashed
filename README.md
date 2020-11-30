@@ -49,7 +49,6 @@ b. Machine Learning Algorithms
 * Don't take any flight that flies Tenerife - Las Palmas / Tenerife - Las Palmas route or Tokyo - Osaka.
 ![Screen Shot 2020-11-30 at 2 32 38 PM](https://user-images.githubusercontent.com/63126292/100661381-040b9900-3319-11eb-9808-a040843f7fe9.png)
 
-* Don't fly with any flight of type Douglous DC-3 ,
 * Avoid going to Sao Paulo, Brazil ; Moscow, Russia ; Rio de Janeiro, Brazil ; they had highest plane crash location.
 
 * It is so much safer to take flight now-a-days as compared to 1970-80, 1972 was the worst years for airline industry.
@@ -58,7 +57,7 @@ b. Machine Learning Algorithms
 
 
 * Peole who are born in year of Ox have more chance to die, and people who are born in year of Horse have high chance to survive
-* The best clustering algorithms for clustering the fatilities is DBSCAN with eps = 0.01, min sample is 1, and metric is euclidean with the number of cluster is 2
+
 
 ### 2. Text Clustering
 * It's hard to determine which is the best method. Overall, The best model which has the highest Silhoette Coefficient Score (0.065) is DBSCAN with eps = 0.01, min_sample = 1, and metric etric='euclidean', which has 4627 clusters
