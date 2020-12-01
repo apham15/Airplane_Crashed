@@ -86,5 +86,6 @@ Also I attach python file above so everyone can learn
  [![](https://img.shields.io/badge/Python-Airplane__Crashed-blue?logo=Python)](https://github.com/apham15/Airplane_Crashed/blob/main/unsupervised_learning_airplane_crash_clustering.py)
 
 And please connect with me on Linkedin. 
- [![](https://img.shields.io/badge/LinkedIn-Anh__(Andrew)__Pham-blue??style=social&logo=LinkedIn)](https://www.linkedin.com/in/anhpham96/)
+[![](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?logo=LinkedIn&style=social)](https://www.linkedin.com/in/anhpham96/)
+
 
